@@ -1,0 +1,6 @@
+code: stepper-project
+description: Template for stepper  example
+components:
+ widgets:
+   - ui/widgets/widgets-dir/stepper-widget/stepper-descriptor.yaml
+
