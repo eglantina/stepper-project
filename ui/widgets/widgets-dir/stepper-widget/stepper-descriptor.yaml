@@ -1,6 +1,6 @@
 code: stepper-section
 titles:
- en: Sample stepper Sexample
+ en: Sample stepper example
  it: esempio stepper
 group: free
 customUiPath: stepper.ftl
