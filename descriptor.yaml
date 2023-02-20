@@ -3,5 +3,5 @@ description: Template for stepper  example
 components:
  widgets:
    - ui/widgets/widgets-dir/stepper-widget/stepper-descriptor.yaml
-   - ui/widgets/widgets-dir/stepper-widget/switch/checkbox-descriptor.yaml
+   
 
